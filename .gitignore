@@ -11,6 +11,7 @@ __pycache__/
 
 #ignore config.py
 *.config.py
+*config.py
 
 # Distribution / packaging
 .Python
